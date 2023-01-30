@@ -44,18 +44,25 @@ Changes *_data/data.yml* will be visible after a while.
 ### Local machine
 
 * Get the repo into your machine 
-```bash
+```
 git clone https://github.com/sharu725/online-cv.git
 ```
 * Install required ruby gems
-```bash
+```
 bundle install
 ```
-* Serve the site locally
-```bash
-bundle exec jekyll serve
+
+If you get some errors about `webrick`, try the following
+
 ```
-* Navigate to `http://localhost:4000`
+bundle add webrick
+```
+
+* Serve the site locally
+```
+bundle exec jekyll serve  --livereload
+```
+* Navigate to <http://localhost:4000>
 
 
 ## Skins

@@ -3,43 +3,46 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Marco Marchioro
+    tagline: Digital Asset Risk Quant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email:
+    phone:
+    timezone: Singapore Timezone
+    citizenship: World
+    website: www.marchioro.org #do not add http://
+    linkedin: marchioro
+    xing: 
+    github: mmarchioro
+    telegram: defi_quant
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@marchioro_marco'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: "assets/pdf/Marco-Marchioro-Curriculum-Vitae.pdf"
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Native like
+
+        - idiom: Italian
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Indonesian
+          level: Colloquial
 
         - idiom: Spanish
-          level: Professional
+          level: Intermediate
 
     interests:
       title: Interests
@@ -56,12 +59,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Risk quantitative analyst (risk quant), experienced in no-arbitrage derivative evaluations 
+      and expert in both traditional financial engineering and blockchain technology, time-series 
+      modeling for alpha generation, Algorand (PyTeal and Reach). Decades of experience with python, 
+      pandas, numpy, and so on. Skilled in the design and writing of smart contracts on multiple 
+      blockchains and in multiple languages with more than 5 years of experience as crypto quant. 
+      Has served as adjunct professor in various academic capacities worldwide.
 education:
     title: Education
     info:
