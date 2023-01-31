@@ -96,7 +96,7 @@ experiences:
     title: Experiences
     info:
       - role: Senior Quant Research Engineer
-        time: 2023 - Present
+        time: 2023 -- Present
         company: Cloudwall, Singapore
         details: |
           Joined the team at the heart of the digital asset risk platform, designing, prototyping 
@@ -109,14 +109,14 @@ experiences:
             - Keeping up to date and contribute to the research in the digital assets space, collaborating with academia and industry partners.
             - Coaching junior members and share knowledge across the organization
       - role: Chief Quantitative Analyst
-        time: 2013 - Present
+        time: 2013 -- Present
         company: Quant Island Pte. Ltd, Singapore
         details: |
           Performed many consultancy works in both traditional finance and digital finance. 
           More recently worked to asses the different types of risk, including market/interest-rate/liquidity/operational 
           risks of a digital exchange. Quant Island is a fintech-certified quantitative-finance consulting firm in Singapore.
       - role: Protocol Scientist
-        time: 2019 - 2022
+        time: 2019 -- 2022
         company: Memento Blockchain Pte. Ltd., Singapore
         details: |
             - Functioned as the DeFi protocol leader and was responsible for the smart contracts 
@@ -127,26 +127,26 @@ experiences:
             - Developed and deployed Solidity smart contracts with Truffle and Hardhat. 
             - Engaged the Reach and the PyTeal languages to write formally verified Dapps on the Algorand blockchain.
       - role: Data Scientist
-        time: 2018 - 2019
+        time: 2018 -- 2019
         company: Poseidon, Malta
         details: |
           Applied data-science techniques and quantitative finance to the field of Tokenized Carbon Credits 
           on the Stellar blockchain.
       - role: Lecturer
-        time: 2018 - 2019
+        time: 2018 -- 2019
         company: ESSEC Business School, Singapore
         details: |
             - Served as lecturer of Stochastic Processes in Continuous Time for the Master in Finance 2018/2019 session.
             - Tutored students on the basic definition of stochastic processes with an emphasis on Martingales, 
                 no-arbitrage theory, stochastic calculus, and the basis of asset pricing according to the standard model. 
       - role: Chief Analytics Officer
-        time: 2016 - 2019
+        time: 2016 -- 2019
         company: Hottab, Hanoi (Vietnam) and Singapore
         details: |
           Was responsible for the company's data-science team and the research and development of the hospitality analytics. 
             Models included advanced use of python/numpy/pandas/scipy
       - role: Chief Research Advisor
-        time: 2013 — 2018
+        time: 2013 —- 2018
         company: The StatPro Group, Worldwide 			
         details: |
             - Cooperated with the quantitative-research team to create original and innovative research 
@@ -155,7 +155,7 @@ experiences:
             - Performed in-person and web training on advanced topics in quantitative analytics: risk modeling, 
                   fundamentals of derivative pricing, fixed-income attribution for both performance and risk. 
       - role: Adjunct Professor
-        time: 2010 - 2014
+        time: 2010 -- 2014
         company: Università degli Studi di Milano-Bicocca, Milan, Italy
         details: |
             - Lectured Interest-Rate Derivatives (providing 5 course credits) for the Advanced Derivatives 
@@ -163,7 +163,7 @@ experiences:
             - Served as thesis advisor for master and Ph.D. students. (Note that the Ph.D. student 
                 later became a University professor) 
       - role: Head of Quantitative Research
-        time: 2010 - 2013
+        time: 2010 -- 2013
         company: StatPro, Milan, Italy
         details: |
             - Managed the quantitative research group of StatPro; the cutting-edge innovation arm of the whole company. 
@@ -173,7 +173,7 @@ experiences:
             - Conducted training on quantitative finance both internally for StatPro personnel, and externally for clients. 
             - Supervised the maintenance and the documentation of a library with over two hundred pricing functions.
       - role: Head of the Quantitative Analysis Group
-        time: 2006 - 2010
+        time: 2006 -- 2010
         company: StatPro, Milan, Italy
         details: |
             - Bullet point
@@ -181,21 +181,21 @@ experiences:
             - Was responsible for the overall quality of prices and risk figures computed by the StatPro suite. 
             - Conducted the internal and external training on quantitative finance. 
       - role: Head of Risk Development
-        time: 2003 - 2006
+        time: 2003 -- 2006
         company: StatPro, Milan, Italy
         details: |
             - Managed a group of financial engineers, software developers, and software architects in developing and maintaining the StatPro Risk Suite: Risk API (SRM API), Risk Service (SRS), StatPro Pricing Library (SPL), Risk Management Product (SRM). 
             - Conducted research on pricing models and risk management applications. 
             - Collaborated with other development groups of StatPro worldwide.
       - role: Quant Developer
-        time: 2000 - 2003
+        time: 2000 -- 2003
         company: StatPro Italia, Milan, Italy 	
         details: |
             - Cofounded RiskMap, a risk-management software firm. 
             - Researched and developed the software, the database, and the risk engine used by the RiskMap suite.
             - Was one of the three cofounders of QuantLib, the leading open-source project for quantitative finance.
       - role: Research Associate (Postdoc)
-        time: 1998 - 2000
+        time: 1998 -- 2000
         company: City College of New York, New York City, USA
         details: |
             - Conducted original research in computational fluid dynamics. 
