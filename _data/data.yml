@@ -53,20 +53,22 @@ sidebar:
         - item: Physics
           link: https://www.youtube.com/@PepitediScienza
 
-        - item: AI and NLP
-          link:
-
         - item: Anthropology
           link: https://en.wikipedia.org/wiki/Anthropology
+
+        - item: AI and NLP
+          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Risk quantitative analyst (risk quant), experienced in non-arbitrage derivative evaluations 
-      and an expert in both traditional financial engineering and blockchain technology, with a focus on time-series 
-      modeling for alpha generation. Skilled in Algorand (PyTeal and Reach). Possesses decades of experience with Python, 
-      Pandas, NumPy, and related technologies. Has a background in the design and writing of smart contracts on multiple blockchains, 
-      using multiple languages, with more than five years of experience as a crypto quant. Also served as an adjunct professor in various academic capacities globally.
+      Experienced quant researcher and data scientist with extensive expertise in the digital asset 
+      and DeFi space. Has held several senior roles at Cloudwall, Quant Island, Memento Blockchain, 
+      Poseidon, ESSEC Business School, Hottab, and The StatPro Group. Adept in the design and 
+      implementation of market, liquidity, credit, and operational risk models. Has collaborated with 
+      academia and industry partners and delivered production-ready code for various analytics in the 
+      finance industry. Has also held lecturer positions and performed in-person and web training 
+      on advanced topics in quantitative finance.
 education:
     title: Education
     info:
@@ -83,7 +85,7 @@ education:
           Focus: computational fluid dynamics (CFD) and heat transfer. Advisor: Andrea Prosperetti
             - Lectured, graded papers, and supervised laboratory experiments for both graduate and undergraduate students on courses including graduate-level mathematics and fluid dynamics.
       - degree: Laurea in Fisica.
-        university: Universita di Milano, Milano, Italia 
+        university: Universita degli Studi di Milano, Milano, Italia 
         time: 1994
         details: |
           Thesis subject: connections between high-energy particle physics and fluid-dynamics turbulence. Advisor: Carlo Cercignani
@@ -141,7 +143,7 @@ experiences:
         time: 2016 - 2019
         company: Hottab, Hanoi (Vietnam) and Singapore
         details: |
-          Was responsible for the company’s data-science team and the research and development of the hospitality analytics. 
+          Was responsible for the company's data-science team and the research and development of the hospitality analytics. 
             Models included advanced use of python/numpy/pandas/scipy
       - role: Chief Research Advisor
         time: 2013 — 2018
@@ -309,8 +311,7 @@ projects:
 
 oss:
     title: OSS Contributions
-    intro: >
-      A list of open-source contributions. 
+    intro: "Open-source contributions"
     contributions:
       - title: QuantLib
         link: "https://www.quantlib.org"
