@@ -62,12 +62,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Risk quantitative analyst (risk quant), experienced in no-arbitrage derivative evaluations 
-      and expert in both traditional financial engineering and blockchain technology, time-series 
-      modeling for alpha generation, Algorand (PyTeal and Reach). Decades of experience with python, 
-      pandas, numpy, and so on. Skilled in the design and writing of smart contracts on multiple 
-      blockchains and in multiple languages with more than 5 years of experience as crypto quant. 
-      Has served as adjunct professor in various academic capacities worldwide.
+      Risk quantitative analyst (risk quant), experienced in non-arbitrage derivative evaluations 
+      and an expert in both traditional financial engineering and blockchain technology, with a focus on time-series 
+      modeling for alpha generation. Skilled in Algorand (PyTeal and Reach). Possesses decades of experience with Python, 
+      Pandas, NumPy, and related technologies. Has a background in the design and writing of smart contracts on multiple blockchains, 
+      using multiple languages, with more than five years of experience as a crypto quant. Also served as an adjunct professor in various academic capacities globally.
 education:
     title: Education
     info:
@@ -83,7 +82,7 @@ education:
         details: |
           Focus: computational fluid dynamics (CFD) and heat transfer. Advisor: Andrea Prosperetti
             - Lectured, graded papers, and supervised laboratory experiments for both graduate and undergraduate students on courses including graduate-level mathematics and fluid dynamics.
-      - degree: Laurea in Fisica (), .
+      - degree: Laurea in Fisica.
         university: Universita di Milano, Milano, Italia 
         time: 1994
         details: |
@@ -319,8 +318,7 @@ oss:
 
 publications:
     title: Thesis and Dissertation Advisor 
-    intro: |
-      The full-length thesis are available upnon request.
+    intro: "The full-length thesis are available upon request."
     papers:
       - title: "Alex Molteni, master candidate"
         link: "#"
