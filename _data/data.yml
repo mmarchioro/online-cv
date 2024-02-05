@@ -3,363 +3,371 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Marco Marchioro
-    tagline: Digital Asset Risk Quant
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Marco Marchioro
+  tagline: Digital Asset Risk Quant
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    timezone: Singapore Timezone
-    citizenship: 
-    website: www.marchioro.org #do not add http://
-    linkedin: marchioro
-    xing: 
-    github: mmarchioro
-    telegram: defi_quant
-    gitlab:
-    bitbucket:
-    twitter: '@marchioro_marco'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: "assets/pdf/Marco-Marchioro-Curriculum-Vitae.pdf"
+  # Sidebar links
+  timezone: Singapore Timezone
+  citizenship:
+  website: www.marchioro.org #do not add http://
+  linkedin: marchioro
+  xing:
+  github: mmarchioro
+  telegram: defi_quant
+  gitlab:
+  bitbucket:
+  twitter: "@marchioro_marco"
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: "assets/pdf/Marco-Marchioro-Curriculum-Vitae.pdf"
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native like
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Native like
 
-        - idiom: Italian
-          level: Native
+      - idiom: Italian
+        level: Native
 
-        - idiom: Indonesian
-          level: Colloquial
+      - idiom: Indonesian
+        level: Colloquial
 
-        - idiom: Spanish
-          level: Intermediate
+      - idiom: Spanish
+        level: Intermediate
 
-    interests:
-      title: Interests
-      info:
-        - item: Linguistics
-          link: https://www.youtube.com/@Langfocus
+  interests:
+    title: Interests
+    info:
+      - item: Linguistics
+        link: https://www.youtube.com/@Langfocus
 
-        - item: Physics
-          link: https://www.youtube.com/@PepitediScienza
+      - item: Physics
+        link: https://www.youtube.com/@PepitediScienza
 
-        - item: Anthropology
-          link: https://en.wikipedia.org/wiki/Anthropology
+      - item: Anthropology
+        link: https://en.wikipedia.org/wiki/Anthropology
 
-        - item: AI and NLP
-          link:
+      - item: AI and NLP
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Experienced quant researcher and data scientist with extensive expertise in the digital asset 
-      and DeFi space. Has held several senior roles at Cloudwall, Quant Island, Memento Blockchain, 
-      Poseidon, ESSEC Business School, Hottab, and The StatPro Group. Adept in the design and 
-      implementation of market, liquidity, credit, and operational risk models. Has collaborated with 
-      academia and industry partners and delivered production-ready code for various analytics in the 
-      finance industry. Has also held lecturer positions and performed in-person and web training 
-      on advanced topics in quantitative finance.
+  title: Career Profile
+  summary: |
+    Experienced quant researcher and data scientist with extensive expertise in the digital asset 
+    and DeFi space. Has held several senior roles at Cloudwall, Quant Island, Memento Blockchain, 
+    Poseidon, ESSEC Business School, Hottab, and The StatPro Group. Adept in the design and 
+    implementation of market, liquidity, credit, and operational risk models. Has collaborated with 
+    academia and industry partners and delivered production-ready code for various analytics in the 
+    finance industry. Has also held lecturer positions and performed in-person and web training 
+    on advanced topics in quantitative finance.
 education:
-    title: Education
-    info:
-      - degree: Ph.D.
-        university: Johns Hopkins University, Baltimore, Maryland, USA
-        time: 1999
-        details: |
-          Focus: computational fluid dynamics (CFD) and multiphase flows. Advisor: Andrea Prosperetti
-            - Conducted original research in computational fluid dynamics, computational heat transfer, and applied statistical mechanics. The research work resulted in the publication of several papers on the subject of multiphase flows in leading refereed journals.
-      - degree: Master of Science and Engineering
-        university: Johns Hopkins University, Baltimore, Maryland, USA
-        time: 1996
-        details: |
-          Focus: computational fluid dynamics (CFD) and heat transfer. Advisor: Andrea Prosperetti
-            - Lectured, graded papers, and supervised laboratory experiments for both graduate and undergraduate students on courses including graduate-level mathematics and fluid dynamics.
-      - degree: Laurea in Fisica.
-        university: Universita degli Studi di Milano, Milano, Italia 
-        time: 1994
-        details: |
-          Thesis subject: connections between high-energy particle physics and fluid-dynamics turbulence. Advisor: Carlo Cercignani
-            - Used state-of-the-art AI methods to analytically compute second-loop Feynmann integrals
-            - Graduated summa cum laude (110 e lode)
-            - (This degree is equivalent to an MS in Physics)
+  title: Education
+  info:
+    - degree: Ph.D.
+      university: Johns Hopkins University, Baltimore, Maryland, USA
+      time: 1999
+      details: |
+        Focus: computational fluid dynamics (CFD) and multiphase flows. Advisor: Andrea Prosperetti
+          - Conducted original research in computational fluid dynamics, computational heat transfer, and applied statistical mechanics. The research work resulted in the publication of several papers on the subject of multiphase flows in leading refereed journals.
+    - degree: Master of Science and Engineering
+      university: Johns Hopkins University, Baltimore, Maryland, USA
+      time: 1996
+      details: |
+        Focus: computational fluid dynamics (CFD) and heat transfer. Advisor: Andrea Prosperetti
+          - Lectured, graded papers, and supervised laboratory experiments for both graduate and undergraduate students on courses including graduate-level mathematics and fluid dynamics.
+    - degree: Laurea in Fisica.
+      university: Universita degli Studi di Milano, Milano, Italia
+      time: 1994
+      details: |
+        Thesis subject: connections between high-energy particle physics and fluid-dynamics turbulence. Advisor: Carlo Cercignani
+          - Used state-of-the-art AI methods to analytically compute second-loop Feynmann integrals
+          - Graduated summa cum laude (110 e lode)
+          - (This degree is equivalent to an MS in Physics)
 experiences:
-    title: Experiences
-    info:
-      - role: Senior Quant Research Engineer
-        time: 2023 -- Present
-        company: Cloudwall, Singapore
-        details: |
-          Joined the team at the heart of the digital asset risk platform, designing, prototyping 
-          and implementing market, liquidity, credit and operational risk models, whether based on factors, 
-          simulations, agent-based systems or other types of quantitative methods. 
-            - Delivering production ready code for risk assessment, valuation, pricing and other types of analytics 
-              for cryptocurrencies and other digital assets. 
-            - Working with the Software Engineers to implement the models into the Cloudwall platform.
-            - Developing and deploying risk and pricing systems for options and other derivatives.
-            - Keeping up to date and contribute to the research in the digital assets space, collaborating with academia and industry partners.
-            - Coaching junior members and share knowledge across the organization
-      - role: Chief Quantitative Analyst
-        time: 2013 -- Present
-        company: Quant Island Pte. Ltd, Singapore
-        details: |
-          Performed many consultancy works in both traditional finance and digital finance. 
-          More recently worked to asses the different types of risk, including market/interest-rate/liquidity/operational 
-          risks of a digital exchange. Quant Island is a fintech-certified quantitative-finance consulting firm in Singapore.
-      - role: Protocol Scientist
-        time: 2019 -- 2022
-        company: Memento Blockchain Pte. Ltd., Singapore
-        details: |
-            - Functioned as the DeFi protocol leader and was responsible for the smart contracts 
-                and the analytics of the DOMANI project. 
-            - Worked on both the Algorand and the Ethereum blockchains to develop fully decentralized 
-                solutions for Digital Asset Management (native-digital funds). 
-            - Built links with many other DeFi projects such as Uniswap, Opyn, UMA, SetProtocol, AAVE, Compound and others. 
-            - Developed and deployed Solidity smart contracts with Truffle and Hardhat. 
-            - Engaged the Reach and the PyTeal languages to write formally verified Dapps on the Algorand blockchain.
-      - role: Data Scientist
-        time: 2018 -- 2019
-        company: Poseidon, Malta
-        details: |
-          Applied data-science techniques and quantitative finance to the field of Tokenized Carbon Credits 
-          on the Stellar blockchain.
-      - role: Lecturer
-        time: 2018 -- 2019
-        company: ESSEC Business School, Singapore
-        details: |
-            - Served as lecturer of Stochastic Processes in Continuous Time for the Master in Finance 2018/2019 session.
-            - Tutored students on the basic definition of stochastic processes with an emphasis on Martingales, 
-                no-arbitrage theory, stochastic calculus, and the basis of asset pricing according to the standard model. 
-      - role: Chief Analytics Officer
-        time: 2016 -- 2019
-        company: Hottab, Hanoi (Vietnam) and Singapore
-        details: |
-          Was responsible for the company's data-science team and the research and development of the hospitality analytics. 
-            Models included advanced use of python/numpy/pandas/scipy
-      - role: Chief Research Advisor
-        time: 2013 —- 2018
-        company: The StatPro Group, Worldwide 			
-        details: |
-            - Cooperated with the quantitative-research team to create original and innovative research 
-                in the field of liquidity risk (especially applied to the bond market) and other financial topics. 
-            - Independently carried out model validations for pricing functions and risk analytics. 
-            - Performed in-person and web training on advanced topics in quantitative analytics: risk modeling, 
-                  fundamentals of derivative pricing, fixed-income attribution for both performance and risk. 
-      - role: Adjunct Professor
-        time: 2010 -- 2014
-        company: Università degli Studi di Milano-Bicocca, Milan, Italy
-        details: |
-            - Lectured Interest-Rate Derivatives (providing 5 course credits) for the Advanced Derivatives 
-                class of the Master's Program in Economics and Finance (Laurea Magistrale in Economia e Finanza). 
-            - Served as thesis advisor for master and Ph.D. students. (Note that the Ph.D. student 
-                later became a University professor) 
-      - role: Head of Quantitative Research
-        time: 2010 -- 2013
-        company: StatPro, Milan, Italy
-        details: |
-            - Managed the quantitative research group of StatPro; the cutting-edge innovation arm of the whole company. 
-            - Liaised with universities and the academic world to maintain the highest quality for the StatPro analytics.
-            - Was responsible for the creation of new models for pricing functions, risk analytics, and performance measurements. 
-            - Was responsible for the validation of quantitative models used by the StatPro analytics (including StatPro Revolution). 
-            - Conducted training on quantitative finance both internally for StatPro personnel, and externally for clients. 
-            - Supervised the maintenance and the documentation of a library with over two hundred pricing functions.
-      - role: Head of the Quantitative Analysis Group
-        time: 2006 -- 2010
-        company: StatPro, Milan, Italy
-        details: |
-            - Bullet point
-            - Managed the quantitative-analysis group that performed R&D of pricing functions and risk analytics. 
-            - Was responsible for the overall quality of prices and risk figures computed by the StatPro suite. 
-            - Conducted the internal and external training on quantitative finance. 
-      - role: Head of Risk Development
-        time: 2003 -- 2006
-        company: StatPro, Milan, Italy
-        details: |
-            - Managed a group of financial engineers, software developers, and software architects in developing and maintaining the StatPro Risk Suite: Risk API (SRM API), Risk Service (SRS), StatPro Pricing Library (SPL), Risk Management Product (SRM). 
-            - Conducted research on pricing models and risk management applications. 
-            - Collaborated with other development groups of StatPro worldwide.
-      - role: Quant Developer
-        time: 2000 -- 2003
-        company: StatPro Italia, Milan, Italy 	
-        details: |
-            - Cofounded RiskMap, a risk-management software firm. 
-            - Researched and developed the software, the database, and the risk engine used by the RiskMap suite.
-            - Was one of the three cofounders of QuantLib, the leading open-source project for quantitative finance.
-      - role: Research Associate (Postdoc)
-        time: 1998 -- 2000
-        company: City College of New York, New York City, USA
-        details: |
-            - Conducted original research in computational fluid dynamics. 
-            - Developed a software to evaluate the particle diffusivity of suspensions 
-                using Monte Carlo simulations. Advisor: Andreas Acrivos.
+  title: Experiences
+  info:
+    - role: Chief Scientist
+      time: 2024 -- Present
+      company: Cloudwall, Singapore
+      details: |
+        Leading the research group at Cloudwall, I am responsible for the development and quality assurance of our core quantitative library. My role includes:
+        - Steering the strategic development of our quantitative research and methodologies.
+        - Ensuring the accuracy and reliability of analytics and data provided to clients.
+        - Aligning research outputs with client needs and contributing to innovative solutions in the digital asset space.
+        - Mentoring team members and fostering a culture of continuous learning and innovation.
+    - role: Senior Quant Research Engineer
+      time: 2023 -- Jan. 2024
+      company: Cloudwall, Singapore
+      details: |
+        Joined the team at the heart of the digital asset risk platform, designing, prototyping 
+        and implementing market, liquidity, credit and operational risk models, whether based on factors, 
+        simulations, agent-based systems or other types of quantitative methods. 
+          - Delivering production ready code for risk assessment, valuation, pricing and other types of analytics 
+            for cryptocurrencies and other digital assets. 
+          - Working with the Software Engineers to implement the models into the Cloudwall platform.
+          - Developing and deploying risk and pricing systems for options and other derivatives.
+          - Keeping up to date and contribute to the research in the digital assets space, collaborating with academia and industry partners.
+          - Coaching junior members and share knowledge across the organization
+    - role: Chief Quantitative Analyst
+      time: 2013 -- Present
+      company: Quant Island Pte. Ltd, Singapore
+      details: |
+        Performed many consultancy works in both traditional finance and digital finance. 
+        More recently worked to asses the different types of risk, including market/interest-rate/liquidity/operational 
+        risks of a digital exchange. Quant Island is a fintech-certified quantitative-finance consulting firm in Singapore.
+    - role: Protocol Scientist
+      time: 2019 -- 2022
+      company: Memento Blockchain Pte. Ltd., Singapore
+      details: |
+        - Functioned as the DeFi protocol leader and was responsible for the smart contracts 
+            and the analytics of the DOMANI project. 
+        - Worked on both the Algorand and the Ethereum blockchains to develop fully decentralized 
+            solutions for Digital Asset Management (native-digital funds). 
+        - Built links with many other DeFi projects such as Uniswap, Opyn, UMA, SetProtocol, AAVE, Compound and others. 
+        - Developed and deployed Solidity smart contracts with Truffle and Hardhat. 
+        - Engaged the Reach and the PyTeal languages to write formally verified Dapps on the Algorand blockchain.
+    - role: Data Scientist
+      time: 2018 -- 2019
+      company: Poseidon, Malta
+      details: |
+        Applied data-science techniques and quantitative finance to the field of Tokenized Carbon Credits 
+        on the Stellar blockchain.
+    - role: Lecturer
+      time: 2018 -- 2019
+      company: ESSEC Business School, Singapore
+      details: |
+        - Served as lecturer of Stochastic Processes in Continuous Time for the Master in Finance 2018/2019 session.
+        - Tutored students on the basic definition of stochastic processes with an emphasis on Martingales, 
+            no-arbitrage theory, stochastic calculus, and the basis of asset pricing according to the standard model.
+    - role: Chief Analytics Officer
+      time: 2016 -- 2019
+      company: Hottab, Hanoi (Vietnam) and Singapore
+      details: |
+        Was responsible for the company's data-science team and the research and development of the hospitality analytics. 
+          Models included advanced use of python/numpy/pandas/scipy
+    - role: Chief Research Advisor
+      time: 2013 —- 2018
+      company: The StatPro Group, Worldwide
+      details: |
+        - Cooperated with the quantitative-research team to create original and innovative research 
+            in the field of liquidity risk (especially applied to the bond market) and other financial topics. 
+        - Independently carried out model validations for pricing functions and risk analytics. 
+        - Performed in-person and web training on advanced topics in quantitative analytics: risk modeling, 
+              fundamentals of derivative pricing, fixed-income attribution for both performance and risk.
+    - role: Adjunct Professor
+      time: 2010 -- 2014
+      company: Università degli Studi di Milano-Bicocca, Milan, Italy
+      details: |
+        - Lectured Interest-Rate Derivatives (providing 5 course credits) for the Advanced Derivatives 
+            class of the Master's Program in Economics and Finance (Laurea Magistrale in Economia e Finanza). 
+        - Served as thesis advisor for master and Ph.D. students. (Note that the Ph.D. student 
+            later became a University professor)
+    - role: Head of Quantitative Research
+      time: 2010 -- 2013
+      company: StatPro, Milan, Italy
+      details: |
+        - Managed the quantitative research group of StatPro; the cutting-edge innovation arm of the whole company. 
+        - Liaised with universities and the academic world to maintain the highest quality for the StatPro analytics.
+        - Was responsible for the creation of new models for pricing functions, risk analytics, and performance measurements. 
+        - Was responsible for the validation of quantitative models used by the StatPro analytics (including StatPro Revolution). 
+        - Conducted training on quantitative finance both internally for StatPro personnel, and externally for clients. 
+        - Supervised the maintenance and the documentation of a library with over two hundred pricing functions.
+    - role: Head of the Quantitative Analysis Group
+      time: 2006 -- 2010
+      company: StatPro, Milan, Italy
+      details: |
+        - Bullet point
+        - Managed the quantitative-analysis group that performed R&D of pricing functions and risk analytics. 
+        - Was responsible for the overall quality of prices and risk figures computed by the StatPro suite. 
+        - Conducted the internal and external training on quantitative finance.
+    - role: Head of Risk Development
+      time: 2003 -- 2006
+      company: StatPro, Milan, Italy
+      details: |
+        - Managed a group of financial engineers, software developers, and software architects in developing and maintaining the StatPro Risk Suite: Risk API (SRM API), Risk Service (SRS), StatPro Pricing Library (SPL), Risk Management Product (SRM). 
+        - Conducted research on pricing models and risk management applications. 
+        - Collaborated with other development groups of StatPro worldwide.
+    - role: Quant Developer
+      time: 2000 -- 2003
+      company: StatPro Italia, Milan, Italy
+      details: |
+        - Cofounded RiskMap, a risk-management software firm. 
+        - Researched and developed the software, the database, and the risk engine used by the RiskMap suite.
+        - Was one of the three cofounders of QuantLib, the leading open-source project for quantitative finance.
+    - role: Research Associate (Postdoc)
+      time: 1998 -- 2000
+      company: City College of New York, New York City, USA
+      details: |
+        - Conducted original research in computational fluid dynamics. 
+        - Developed a software to evaluate the particle diffusivity of suspensions 
+            using Monte Carlo simulations. Advisor: Andreas Acrivos.
 projects:
-    title: Achievements
-    intro: >
-      A selected list of projects and achievements
-    assignments:
-      - title: Blockchains, Smart Contracts, Decentralized Finance and Dapps
-        link: "#"
-        tagline: |
-          - Instrumental in creating the DEXTF protocol model for Decentralized Asset Management, from the design stage, to mainnet deployment on the Ethereum blockchain. The project was able to receive two separate grants from the Singapore MAS resulting in funding of more than 400,000 USD. 
-          - Instrumental in the design of the tokenomics, and deployed the DEXTF token on the mainnet. The DEXTF token at one point was traded at 4USD with a total supply of 100,000,000. 
-          - Deployed the UMA -DEXTF-$ which provided weekly income in excess of 10,000 USD/week. 
-          - Developed a DEXTF prototype on the Algorand blockchain that resulted in a grant of 150,000 USD.
-          - Currently working on various DeFi projects, including the use of the blockchain-independent Reach Dapp language which ensures formal verification of smart contracts. 
+  title: Achievements
+  intro: >
+    A selected list of projects and achievements
+  assignments:
+    - title: Blockchains, Smart Contracts, Decentralized Finance and Dapps
+      link: "#"
+      tagline: |
+        - Instrumental in creating the DEXTF protocol model for Decentralized Asset Management, from the design stage, to mainnet deployment on the Ethereum blockchain. The project was able to receive two separate grants from the Singapore MAS resulting in funding of more than 400,000 USD. 
+        - Instrumental in the design of the tokenomics, and deployed the DEXTF token on the mainnet. The DEXTF token at one point was traded at 4USD with a total supply of 100,000,000. 
+        - Deployed the UMA -DEXTF-$ which provided weekly income in excess of 10,000 USD/week. 
+        - Developed a DEXTF prototype on the Algorand blockchain that resulted in a grant of 150,000 USD.
+        - Currently working on various DeFi projects, including the use of the blockchain-independent Reach Dapp language which ensures formal verification of smart contracts.
 
-      - title: Data Science, Quantitative Finance, And Risk Management 
-        link: "#"
-        tagline: |
-          - Created a model to measure the market risk of a centralized/decentralized exchange 
-              with focus on the long/short positions.
-          - Experienced risk-management quant with a focus on numerical risk simulations. 
-          - Created original quantitative models to numerically compute risk measures, 
-              risk contributions, stress tests, sensitivity analysis, and liquidity risk (liquidity score and market impact). 
-          - Oversaw the software implementation of quantitative models in software 
-              (StatPro Risk Factory) and their link with market data. 
-          - Designed and implemented the risk engine currently used by the 
-                StatPro analytics (StatPro Risk API used by Revolution). 
-          - Created several robot-trading portfolio to take advantage of certain 
-                statistical-arbitrage opportunities in the crypto-currency markets.
-          - Revised and improved a model for the computation of the time-to-liquidate 
-              and the market impact of bonds, in compliance with US regulation. 
-          - In the early stages of the COVID19 pandemic, created a model that was 
-              able to predicts the early peaks of the virus diffusion in both Singapore and many Italian regions.
-          - Created a quantitative model for the distribution of arrivals of restaurant 
-              customers by weekday and time, factorizing important independent drivers. 
-          - Created a general framework to consistently compute performance and risk contributions. 
-                The framework generalizes the standard-market method and provides an elegant split 
-                of risk contributions using accounting base, that can be chosen to match the performance contributions, 
-                and a statistical base.
-          - Created an innovative model to compute the Standard Risk Measure mandatory 
-                for superannuation funds in Australia. 
-          - Created a market-factor performance contribution model to split portfolio performance 
-                in components coming from identifiable market factors (credit, equity, interest rates, and so on).
-          - Created a factor risk decomposition method applicable to most type of simulations 
-                (Monte Carlo or historical). This method allows the computation of, for example, 
-                the risk contribution in a convertible bond attributable to interest rates, credit risk, 
-                or equity risk, respectively. The model has been used in production for more than 8 years. 
-          - Created a liquidity-risk framework to compute the market bid/ask spread induced by the bid/ask 
-                spread of the underlying risk factors.
-          - Created a model to simulate the market expectation of credit risk in the historical-simulation 
-                method, using the latest credit-default-swap quotes.
-          - Created a modification of the Kalotay-Fabozzi model allowing the stability of risk-figures 
-                for mortgage-backed securities.
+    - title: Data Science, Quantitative Finance, And Risk Management
+      link: "#"
+      tagline: |
+        - Created a model to measure the market risk of a centralized/decentralized exchange 
+            with focus on the long/short positions.
+        - Experienced risk-management quant with a focus on numerical risk simulations. 
+        - Created original quantitative models to numerically compute risk measures, 
+            risk contributions, stress tests, sensitivity analysis, and liquidity risk (liquidity score and market impact). 
+        - Oversaw the software implementation of quantitative models in software 
+            (StatPro Risk Factory) and their link with market data. 
+        - Designed and implemented the risk engine currently used by the 
+              StatPro analytics (StatPro Risk API used by Revolution). 
+        - Created several robot-trading portfolio to take advantage of certain 
+              statistical-arbitrage opportunities in the crypto-currency markets.
+        - Revised and improved a model for the computation of the time-to-liquidate 
+            and the market impact of bonds, in compliance with US regulation. 
+        - In the early stages of the COVID19 pandemic, created a model that was 
+            able to predicts the early peaks of the virus diffusion in both Singapore and many Italian regions.
+        - Created a quantitative model for the distribution of arrivals of restaurant 
+            customers by weekday and time, factorizing important independent drivers. 
+        - Created a general framework to consistently compute performance and risk contributions. 
+              The framework generalizes the standard-market method and provides an elegant split 
+              of risk contributions using accounting base, that can be chosen to match the performance contributions, 
+              and a statistical base.
+        - Created an innovative model to compute the Standard Risk Measure mandatory 
+              for superannuation funds in Australia. 
+        - Created a market-factor performance contribution model to split portfolio performance 
+              in components coming from identifiable market factors (credit, equity, interest rates, and so on).
+        - Created a factor risk decomposition method applicable to most type of simulations 
+              (Monte Carlo or historical). This method allows the computation of, for example, 
+              the risk contribution in a convertible bond attributable to interest rates, credit risk, 
+              or equity risk, respectively. The model has been used in production for more than 8 years. 
+        - Created a liquidity-risk framework to compute the market bid/ask spread induced by the bid/ask 
+              spread of the underlying risk factors.
+        - Created a model to simulate the market expectation of credit risk in the historical-simulation 
+              method, using the latest credit-default-swap quotes.
+        - Created a modification of the Kalotay-Fabozzi model allowing the stability of risk-figures 
+              for mortgage-backed securities.
 
-      - title: Quantitative Analysis, Model Validation, Bond Pricing and Derivative Pricing 
-        link: "#"
-        tagline: |
-          - A novel technique, the Helena model, to compute the current market trends using trading data at multiple time scales.
-          - The creation of a fast quantitative model to estimate the price of subordinated fixed-to-floater convertible bonds (e.g., perpetual fixed-to-floater bonds).
-          - Pricing of exotic equity derivatives (e.g., bonds with embedded exotic options).
-          - Validation of models used by clients to internally evaluate exotic-instrument value.
-          - A unique price-challenge process for complex-asset pricing: this process allows to reproduce exactly on a spreadsheet the same results obtained with a super-cluster computer.
-          - Bootstrap, interpolation, and extrapolation of smiled implied-volatility surfaces for equities and foreign-exchange rates.
-          - Solving partial-differential equations (PDE) with multiple methods: semi-analytic methods (asymptotic methods), Monte Carlo simulations, multi-pole expansion, finite differences, finite elements, fast Fourier transform, and other spectral methods.
-          - Pricing of portfolio credit derivatives such as CDO and first-to-default baskets.
+    - title: Quantitative Analysis, Model Validation, Bond Pricing and Derivative Pricing
+      link: "#"
+      tagline: |
+        - A novel technique, the Helena model, to compute the current market trends using trading data at multiple time scales.
+        - The creation of a fast quantitative model to estimate the price of subordinated fixed-to-floater convertible bonds (e.g., perpetual fixed-to-floater bonds).
+        - Pricing of exotic equity derivatives (e.g., bonds with embedded exotic options).
+        - Validation of models used by clients to internally evaluate exotic-instrument value.
+        - A unique price-challenge process for complex-asset pricing: this process allows to reproduce exactly on a spreadsheet the same results obtained with a super-cluster computer.
+        - Bootstrap, interpolation, and extrapolation of smiled implied-volatility surfaces for equities and foreign-exchange rates.
+        - Solving partial-differential equations (PDE) with multiple methods: semi-analytic methods (asymptotic methods), Monte Carlo simulations, multi-pole expansion, finite differences, finite elements, fast Fourier transform, and other spectral methods.
+        - Pricing of portfolio credit derivatives such as CDO and first-to-default baskets.
 
-      - title: Teaching Quantitative Finance 
-        link: "#"
-        tagline: |
-          Experience in teaching quantitative finance includes: 
-            - The creation of line of lectures, based on the QuantLib library, very effective in presenting the basic concepts of quantitative finance in a natural language.
-            - The mastering of an original spreadsheet-presentation technique (as opposed to the common slide presentation) to enhance the audience's understanding of complex topics.
-            - Created a new technique where Jupyter (python) notebooks are used intereactively during the lecture
+    - title: Teaching Quantitative Finance
+      link: "#"
+      tagline: |
+        Experience in teaching quantitative finance includes: 
+          - The creation of line of lectures, based on the QuantLib library, very effective in presenting the basic concepts of quantitative finance in a natural language.
+          - The mastering of an original spreadsheet-presentation technique (as opposed to the common slide presentation) to enhance the audience's understanding of complex topics.
+          - Created a new technique where Jupyter (python) notebooks are used intereactively during the lecture
 
-      - title: Team Leadership and Project Management 
-        link: "#"
-        tagline: |
-            - Experienced in managing complex projects with stake-holders from different teams and backgrounds. 
-            - Ability to gain efficiency by advocating teamwork, inspiring and motivating collaboration. 
-            - Interfacing and mediating between the business management and the technical team; translating business requirements into working implementations.
-            - Ability to manage top-skilled, Ph.D. level, personnel: their expectations and motivations.
+    - title: Team Leadership and Project Management
+      link: "#"
+      tagline: |
+        - Experienced in managing complex projects with stake-holders from different teams and backgrounds. 
+        - Ability to gain efficiency by advocating teamwork, inspiring and motivating collaboration. 
+        - Interfacing and mediating between the business management and the technical team; translating business requirements into working implementations.
+        - Ability to manage top-skilled, Ph.D. level, personnel: their expectations and motivations.
 
-      - title: Technology, Software Design and Development 
-        link: "#"
-        tagline: |
-            - Created multiple quantitative dashboards using the holoviz-panel framework
-            - Created may API using the (python) FastAPI framework
-            - Instrumental in creating one of the most sophisticated risk-management softwares/services available on the market (currently operated by the confluence group). 
-            - Experienced in the implementation of numerical software for derivative pricing and risk management, and the choice of the most appropriate technology. 
-            - Coordinated the evolution and merging of diverse legacy software and developing teams. 
-            - Expert in lean software development where the delivery of good-quality maintainable software takes the precedence. 
-            - Well-versed with test-driven development, continuous delivery, and continuous integration. Responsible for handling the versioning system and the release-management workflow. 
-            - Designed and administered several relational databases. 
-            - Experienced with object-oriented and JSON databases. Worked on several projects where a multi-tier distribute architecture was the key ingredient to success. 
-            - Experienced with web technology and decentralized servers (e.g. more servers in different continents working together). 
-            - Managing different teams' programming styles such as extreme programming and agile programming.
-            - Creator of a multi-tier RESTful-API based web apps both exposing financial data and for restaurant analytics.
-            - Experience with environments for distributed objects such as CORBA, COM, and .NET
-            - Parallel programming both in fluid dynamics and finance on multi-processors and computer clusters.
-            - Knowledge of different coding techniques such as object-oriented programming, modular programing, and functional programming.
-            - Programming languages used: C++, C, Python, Ruby, Fortran, Visual Basic (including advanced Excel programming), SWIG, Perl, tcsh, Mathematica, and many others. 
-            - Operating systems used: MS-Windows, Unix, Linux, Free BSD, VMS, MacOs (formerly OS X), Aegis (Apollo), SGI Iris, iOS, Android, Symbian, and others.
-            - Database servers: SQL-Lite, MS-SQL server, PostgreSQL, MySQL, MariaDB, and ZODB.
-            - Development of smartphone apps on the Symbian platform using the python language.
-            - Designed, developed, and deployed several projects linking external data from data provider to the internal database.
-            - Worked with the following protocols and standards: HTML, XML, RelaxNG, Java Script, and SOAP.
-            - Experience with Apache web server, Zope,/Plone, and Ruby on Rails.
-
+    - title: Technology, Software Design and Development
+      link: "#"
+      tagline: |
+        - Created multiple quantitative dashboards using the holoviz-panel framework
+        - Created may API using the (python) FastAPI framework
+        - Instrumental in creating one of the most sophisticated risk-management softwares/services available on the market (currently operated by the confluence group). 
+        - Experienced in the implementation of numerical software for derivative pricing and risk management, and the choice of the most appropriate technology. 
+        - Coordinated the evolution and merging of diverse legacy software and developing teams. 
+        - Expert in lean software development where the delivery of good-quality maintainable software takes the precedence. 
+        - Well-versed with test-driven development, continuous delivery, and continuous integration. Responsible for handling the versioning system and the release-management workflow. 
+        - Designed and administered several relational databases. 
+        - Experienced with object-oriented and JSON databases. Worked on several projects where a multi-tier distribute architecture was the key ingredient to success. 
+        - Experienced with web technology and decentralized servers (e.g. more servers in different continents working together). 
+        - Managing different teams' programming styles such as extreme programming and agile programming.
+        - Creator of a multi-tier RESTful-API based web apps both exposing financial data and for restaurant analytics.
+        - Experience with environments for distributed objects such as CORBA, COM, and .NET
+        - Parallel programming both in fluid dynamics and finance on multi-processors and computer clusters.
+        - Knowledge of different coding techniques such as object-oriented programming, modular programing, and functional programming.
+        - Programming languages used: C++, C, Python, Ruby, Fortran, Visual Basic (including advanced Excel programming), SWIG, Perl, tcsh, Mathematica, and many others. 
+        - Operating systems used: MS-Windows, Unix, Linux, Free BSD, VMS, MacOs (formerly OS X), Aegis (Apollo), SGI Iris, iOS, Android, Symbian, and others.
+        - Database servers: SQL-Lite, MS-SQL server, PostgreSQL, MySQL, MariaDB, and ZODB.
+        - Development of smartphone apps on the Symbian platform using the python language.
+        - Designed, developed, and deployed several projects linking external data from data provider to the internal database.
+        - Worked with the following protocols and standards: HTML, XML, RelaxNG, Java Script, and SOAP.
+        - Experience with Apache web server, Zope,/Plone, and Ruby on Rails.
 
 oss:
-    title: OSS Contributions
-    intro: "Open-source contributions"
-    contributions:
-      - title: QuantLib
-        link: "https://www.quantlib.org"
-        tagline: "Co-launched the most-popular open-source C++ library in quantitative finance: The QuantLib Project (currently retired senior developer of QuantLib) in November 2000"
+  title: OSS Contributions
+  intro: "Open-source contributions"
+  contributions:
+    - title: QuantLib
+      link: "https://www.quantlib.org"
+      tagline: "Co-launched the most-popular open-source C++ library in quantitative finance: The QuantLib Project (currently retired senior developer of QuantLib) in November 2000"
 
 publications:
-    title: Thesis and Dissertation Advisor 
-    intro: "The full-length thesis are available upon request."
-    papers:
-      - title: "Alex Molteni, master candidate"
-        link: "#"
-        authors: "Graduated summa cum laude (110 e lode)"
-        conference: "Performance attribution for a portfolio of linear commodity derivatives"
+  title: Thesis and Dissertation Advisor
+  intro: "The full-length thesis are available upon request."
+  papers:
+    - title: "Alex Molteni, master candidate"
+      link: "#"
+      authors: "Graduated summa cum laude (110 e lode)"
+      conference: "Performance attribution for a portfolio of linear commodity derivatives"
 
-      - title: "Andrea Boschetto, master candidate"
-        link: "#"
-        authors: "Graduated summa cum laude (110 e lode)"
-        conference: "Risk attribution for linear commodity derivatives"
+    - title: "Andrea Boschetto, master candidate"
+      link: "#"
+      authors: "Graduated summa cum laude (110 e lode)"
+      conference: "Risk attribution for linear commodity derivatives"
 
-      - title: "Leonardo D’Auria, master candidate"
-        link: "#"
-        authors: "Graduated summa cum laude (110 e lode)"
-        conference: "Historical-simulation model for VIX derivatives"
+    - title: "Leonardo D’Auria, master candidate"
+      link: "#"
+      authors: "Graduated summa cum laude (110 e lode)"
+      conference: "Historical-simulation model for VIX derivatives"
 
-      - title: "Edit Rroji, Ph.D. candidate (currently full professor)"
-        link: "#"
-        authors: "Graduated with honors"
-        conference: "Risk attribution and semi-heavy tailed distributions"
+    - title: "Edit Rroji, Ph.D. candidate (currently full professor)"
+      link: "#"
+      authors: "Graduated with honors"
+      conference: "Risk attribution and semi-heavy tailed distributions"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Quantitative Risk Modeling
-        level: 100%
+  toolset:
+    - name: Quantitative Risk Modeling
+      level: 100%
 
-      - name: Python | Pandas | NumPy
-        level: 100%
+    - name: Python | Pandas | NumPy
+      level: 100%
 
-      - name: Quantitative Software Development
-        level: 95%
+    - name: Quantitative Software Development
+      level: 95%
 
-      - name: Blockchain and Smart Contracts
-        level: 90%
+    - name: Blockchain and Smart Contracts
+      level: 90%
 
-      - name: Trading models and bots 
-        level: 80%
+    - name: Trading models and bots
+      level: 80%
 
-      - name: PyTeal and Solidity
-        level: 75%
+    - name: PyTeal and Solidity
+      level: 75%
 
 footer: >
-    Copyright © Marco Marchioro 2023. Theme by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Copyright © Marco Marchioro 2023. Theme by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
