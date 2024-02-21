@@ -37,7 +37,7 @@ sidebar:
         level: Native
 
       - idiom: Indonesian
-        level: Colloquial
+        level: Fluent
 
       - idiom: Spanish
         level: Intermediate
@@ -60,13 +60,15 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Experienced quant researcher and data scientist with extensive expertise in the digital asset 
-    and DeFi space. Has held several senior roles at Cloudwall, Quant Island, Memento Blockchain, 
-    Poseidon, ESSEC Business School, Hottab, and The StatPro Group. Adept in the design and 
-    implementation of market, liquidity, credit, and operational risk models. Has collaborated with 
-    academia and industry partners and delivered production-ready code for various analytics in the 
-    finance industry. Has also held lecturer positions and performed in-person and web training 
-    on advanced topics in quantitative finance.
+    Specializing in Quantitative Research, Risk Models, Digital Assets, and Quantitative Analytics, 
+    I am a seasoned quantitative researcher and data scientist with a deep-rooted background in the 
+    digital asset and DeFi sectors. My professional journey includes pivotal roles at leading firms 
+    like Cloudwall, Quant Island, Memento Blockchain, and The StatPro Group.
+    My expertise lies in the adept design and implementation of sophisticated risk models — including market, liquidity, and credit risk. 
+    I have a proven track record of collaborating with both academia and industry partners, 
+    delivering production-grade code and analytics solutions in the finance sector. 
+    Additionally, I have leveraged my knowledge and experience to educate others, holding lecturer positions and 
+    conducting both in-person and web-based training sessions on advanced quantitative finance topics.
 education:
   title: Education
   info:
@@ -97,42 +99,39 @@ experiences:
       time: 2024 -- Present
       company: Cloudwall, Singapore
       details: |
-        Leading the research group at Cloudwall, I am responsible for the development and quality assurance of our core quantitative library. My role includes:
-        - Steering the strategic development of our quantitative research and methodologies.
-        - Ensuring the accuracy and reliability of analytics and data provided to clients.
-        - Aligning research outputs with client needs and contributing to innovative solutions in the digital asset space.
-        - Mentoring team members and fostering a culture of continuous learning and innovation.
+        As the leader of the research group at Cloudwall, my responsibilities encompass:
+        - Directing strategic development in quantitative research and ensuring the alignment of research outputs with evolving client needs, particularly in the digital asset domain.
+        - Guaranteeing the accuracy and reliability of our analytics and data services.
+        - Fostering a culture of continuous learning and innovation within the team, while also mentoring team members to enhance their professional growth.
+        - Overseeing project management aspects, including the creation and assignment of JIRA tickets and optimization of go-to-production plans to ensure timely project delivery.
     - role: Senior Quant Research Engineer
       time: 2023 -- Jan. 2024
       company: Cloudwall, Singapore
       details: |
-        Joined the team at the heart of the digital asset risk platform, designing, prototyping 
-        and implementing market, liquidity, credit and operational risk models, whether based on factors, 
-        simulations, agent-based systems or other types of quantitative methods. 
-          - Delivering production ready code for risk assessment, valuation, pricing and other types of analytics 
-            for cryptocurrencies and other digital assets. 
-          - Working with the Software Engineers to implement the models into the Cloudwall platform.
-          - Developing and deploying risk and pricing systems for options and other derivatives.
-          - Keeping up to date and contribute to the research in the digital assets space, collaborating with academia and industry partners.
-          - Coaching junior members and share knowledge across the organization
+        In this role, I:
+          - Played a pivotal role in the design, prototyping, and implementation of advanced risk models (market, liquidity, credit, and operational) using various quantitative methods including factor analysis, simulations, and agent-based systems.
+          - Significantly improved code quality in the research group by implementing quantitative measures like the PyLint score and the Mypy score.
+          - Streamlined the data interface between the quantitative library and data acquisition module.
+          - Leveraged large language models to triple code-writing efficiency.
+          - Designed and implemented cutting-edge risk models for the core library, accelerating their deployment to production within months.
+          - Actively coached junior members, fostering knowledge sharing across the organization.
     - role: Chief Quantitative Analyst
       time: 2013 -- Present
       company: Quant Island Pte. Ltd, Singapore
       details: |
-        Performed many consultancy works in both traditional finance and digital finance. 
-        More recently worked to asses the different types of risk, including market/interest-rate/liquidity/operational 
-        risks of a digital exchange. Quant Island is a fintech-certified quantitative-finance consulting firm in Singapore.
+        My tenure here includes:
+        - Extensive consultancy in both traditional and digital finance, with a recent focus on assessing various risk types (market, interest rate, liquidity) for a digital exchange.
+        - Contributing to Quant Island's reputation as a fintech-certified quantitative finance consulting firm in Singapore.
     - role: Protocol Scientist
       time: 2019 -- 2022
       company: Memento Blockchain Pte. Ltd., Singapore
       details: |
-        - Functioned as the DeFi protocol leader and was responsible for the smart contracts 
-            and the analytics of the DOMANI project. 
-        - Worked on both the Algorand and the Ethereum blockchains to develop fully decentralized 
-            solutions for Digital Asset Management (native-digital funds). 
-        - Built links with many other DeFi projects such as Uniswap, Opyn, UMA, SetProtocol, AAVE, Compound and others. 
-        - Developed and deployed Solidity smart contracts with Truffle and Hardhat. 
-        - Engaged the Reach and the PyTeal languages to write formally verified Dapps on the Algorand blockchain.
+        In this role, I:
+        - Led the DeFi protocol development for the DOMANI project, overseeing smart contract creation and analytics.
+        - Specialized in building decentralized Digital Asset Management solutions on both Algorand and Ethereum blockchains.
+        - Established collaborations with prominent DeFi projects including Uniswap, Opyn, UMA, SetProtocol, AAVE, and Compound.
+        - Expertly developed and deployed Solidity smart contracts using Truffle and Hardhat tools.
+        - Utilized Reach and PyTeal languages to create formally verified Dapps on the Algorand blockchain, enhancing security and reliability.
     - role: Data Scientist
       time: 2018 -- 2019
       company: Poseidon, Malta
@@ -143,9 +142,9 @@ experiences:
       time: 2018 -- 2019
       company: ESSEC Business School, Singapore
       details: |
-        - Served as lecturer of Stochastic Processes in Continuous Time for the Master in Finance 2018/2019 session.
-        - Tutored students on the basic definition of stochastic processes with an emphasis on Martingales, 
-            no-arbitrage theory, stochastic calculus, and the basis of asset pricing according to the standard model.
+        My key contributions included:
+        - Pioneering the application of data science and quantitative finance methodologies in the realm of Tokenized Carbon Credits.
+        - Leveraging the Stellar blockchain to enhance the efficacy and transparency of carbon credit transactions.
     - role: Chief Analytics Officer
       time: 2016 -- 2019
       company: Hottab, Hanoi (Vietnam) and Singapore
